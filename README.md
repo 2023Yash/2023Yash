@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @2023Yash🤗
-- 👀 I’m interested in Programming 👩🏻‍💻, Drawing 🖼️ and Rubik's cube 🎲🟥🟩⬜🟦🟨
-- 🌱 I’m currently learning PYTHON🐍
-- 💞️ I’m looking to collaborate on a big Project</>
-- 📫 How to reach me - yashnaudiyal@gmail.com📧
-- 😄 Pronouns: he/him🤵‍♂️
-- ⚡ Fun fact: 1 !== "1"🥳
