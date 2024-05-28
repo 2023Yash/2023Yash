@@ -1,5 +1,5 @@
 <hr>
-<img align="right" alt="Coding" width="450" src="https://lh3.googleusercontent.com/a/ACg8ocL2EmHInfrLUZShrTPgwzfx7JEve2jNDYnlNe4z3oqQNwgo7g9c=s288-c-no">
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/a/ACg8ocL2EmHInfrLUZShrTPgwzfx7JEve2jNDYnlNe4z3oqQNwgo7g9c=s288-c-no">
 
 <h1>Hi 🤗 I'm <b>Yash Naudiyal</b></h1>
 
