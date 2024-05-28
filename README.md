@@ -8,9 +8,6 @@
 <a href="https://github.com/2023Yash"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0Ivo9_lxVuV560lEeW-flHye_MHdx1E3MxXU4s8o-1VIGEp6AHO_p3oCktX4vvU17fA&usqp=CAU" height="30" width="53.33"></a><br>
 <a href="https://github.com/2023Yash"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXpb3FmyGGEEJKKn4tb3gNAEMZBAZwX6RackLk1he1d2h3wGCOE_DZLbf4PBSQfTUeRw&usqp=CAU" height="30" width="111.66"></a>
 
-
-
-
 - 🔭 I’m currently working on **GitHub🤣🤣🤣**
 
 - 🌱 I’m currently learning **Python**
@@ -22,3 +19,23 @@
 - 🙏🥺 plz, plz follow me on <a href="https://github.com/2023Yash">Git Hub</a>😭😭😭
 
 - ⚡ Fun fact **I am Funny**
+<hr>
+<h1 align="center">About Me</h1>
+
+<p align="center">Coming Soon...</p>
+<hr>
+<h1 align="center">My Skills</h1>
+
+<p align="center">
+  <img src="https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width="100" hieght="100">
+  <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-512.png" width="100" hieght="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" hieght="100">
+</p>
+<p align="center">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="100" hieght="100">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="100" hieght="100">
+</p>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:600/1*LKaM6rFUCeB-O0oo0kowoQ.png" width="100" hieght="100">
+</p>
+<hr>
