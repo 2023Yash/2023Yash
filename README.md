@@ -1,7 +1,7 @@
 <hr>
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/a/ACg8ocL2EmHInfrLUZShrTPgwzfx7JEve2jNDYnlNe4z3oqQNwgo7g9c=s288-c-no">
 
-<h1>Hi 🤗 I'm <b>Yash Naudiyal</b></h1>
+# Hi 🤗 I'm <b>Yash Naudiyal
 
 <h3>Follow Me</h3>
 <a href="https://github.com/2023Yash"><img src="https://d1mjtvp3d1g20r.cloudfront.net/2019/11/04083733/GitHub.jpg" height="30"></a>
